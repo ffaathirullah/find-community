@@ -1,0 +1,105 @@
+.aku .rounded-pill {
+	border: none;
+	width: 100px;
+	background-color: #00BFFF;
+	border:0.5px solid black;
+	color:white;
+	font-weight: bold;
+
+}
+
+
+
+.aku img {
+	margin-left: 5px;
+	width: 125px;
+	height: 20px;
+}
+
+.contoh img {
+	width: 25px;
+	height: 25px;
+	opacity: 0.5;
+}
+.contoh h5 {
+	margin-left: 300px;
+}
+
+.gambar img{
+	width: 98%;
+	height: 50%;
+	
+}
+
+.gambar {
+	margin-left: 20px;
+}
+
+.gambar2 {
+	margin-left: 15px;
+}
+
+.judul {
+	margin-left: 30px;
+}
+
+.gambar2 img {
+	width: 19%;
+	height: 9%;
+	margin-left: 5px;
+}
+
+.isigambar {
+	
+}
+
+.deskripsi {
+	border-bottom: 3px solid #eaeaea;
+}
+
+.deskripsi p {
+	background-color: #eaeaea;
+	padding: 10px;
+}
+
+.no {
+	border-bottom: 3px solid #eaeaea;
+}
+
+.tombol .btn {
+	width: 350px;
+	background-color: orangered;
+}
+
+.nama_ketua h5 {
+	color: blue;
+}
+
+.nama {
+	color: orangered;
+}
+
+.deskripsi h5 {
+	color: blue;
+}
+
+.no_kontak,.no {
+	color: blue;
+}
+
+.anggota,.jumlah {
+	color: orangered;
+}
+
+.maps h2 {
+	color: orangered;
+
+}
+
+.maps {
+	margin-left: 20px;
+}
+
+.mapss iframe {
+	margin-left: 20px;
+}

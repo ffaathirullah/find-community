@@ -1,0 +1,88 @@
+
+.side {
+	color: white;
+	margin-left: 25px;
+	margin-top: 55px;
+
+}
+.img-fluid {
+	width: 200px;
+
+}
+.center{
+background-color: #FFFFFF;
+height: 400px;
+padding-top: 15px;
+margin-left: 100px;
+
+
+}
+
+.biodata {
+	width: 250px;
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 15px;
+}
+
+
+.btn {
+	display: block;
+	margin-left: 570px;
+}
+
+.row {
+	margin-top: 100px;
+}
+
+.radio {
+	margin-left: 165px;
+}
+
+.gender {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.btn-primary {
+	background-color: #3427E5;
+	width: 150px;
+}
+
+body {
+	background-image: linear-gradient(to right, #2011F5 ,#0EE1F9 );
+	width: 100%;
+	
+}
+
+.nav-link {
+	color: black;
+	font-weight: bold;
+	font-family: arial;
+	margin-right: 20px;
+}
+
+.navbar-brand {
+	color: black;
+	font-weight: bold;
+	font-family: arial;
+
+}
+
+.navbar-nav a:hover {
+	color: red;
+	transition: 2s;
+}
+
+.footer {
+	margin-top: 100px;
+	background-color: #FFFFFF;
+	padding: 5px;
+	/*font-weight: bold;*/
+	font-family: arial;
+	color:black;
+}
+.footer h4 {
+
+	font-weight: bold;
+}

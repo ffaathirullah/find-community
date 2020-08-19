@@ -1,0 +1,46 @@
+body {
+	background-color: #eaeaea;
+}
+.navbar-nav a:hover  {
+	background-color: red;
+	padding: 10px;
+	transition: 2s;
+
+}
+
+.nav-link {
+	margin-right: 83px;
+	text-transform: uppercase;
+}
+
+.daftar .container {
+	background-color: black;
+}
+
+.daftar .nav-link {
+	color:white;
+}
+
+.pencarian {
+	margin-top: 20px;
+}
+.pencarian .container {
+	background-color: #eaeaea;
+}
+
+.form-group input {
+	height: 80px;
+}
+
+.list .container {
+	background-color: #FFFFFF;
+}
+.h4 {
+	text-transform: uppercase;
+}
+
+.list .container .col-6 {
+	background-color: cyan;
+
+}
+

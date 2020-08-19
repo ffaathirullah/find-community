@@ -1,0 +1,272 @@
+body{
+  background-color: #C0C0C0 ;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+* a{
+  text-decoration: none;
+}
+#button:hover{
+  background: #1ECD97;
+  border: 2px solid #1ECD97;
+  color:#fff;
+}
+.button2:hover{
+  background: #fff;
+  border: 2px solid#80AAFF;
+}
+.button3:hover{
+  background: #fff;
+  border: 2px solid #6F00FF;
+}
+#button a:hover{
+  color:#fff;
+}
+.button2 a:hover{
+  color: #80AAFF;
+}
+.yangkedua{
+  margin: 10%;
+}
+.yangketiga{
+    margin:1.5625%;
+}
+.gambardisamping{
+  float: right;
+  margin-top: 10%;
+  margin-right:10%;
+  width: 20%;
+  height: 40%;
+}
+.gambardisamping2{
+  float: right;
+  margin-top: 10%;
+     width: 50%;
+}
+.gambardisamping2 img{
+  height: 85%;
+     width: 100%;
+  max-width: 100%;
+}
+.gambardisamping img{
+  background: transparent;
+  max-width: 100%;
+}
+.yangkedua{
+  margin:1.5625%;
+
+}
+.kiri{
+float: left;
+margin: 5.20833333333%;
+margin-top: -3.125%; 
+} 
+.kiri2{
+float: left;
+margin: 5.20833333333;
+margin-top: -5%;
+text-align:left;
+margin-left: 5%;
+} 
+.kiri2 h1{
+  color: green;
+}
+.kiri2 p{
+  color: #000;
+  font-size: 104.166666667%;
+}
+.kiri3{
+float: left;
+text-align:left;
+margin-left: 12%;
+margin-top: -10%;
+} 
+.kiri3 h1{
+  color: #000080  ;
+  font-size: 60px;
+  margin-left: -100px; 
+  margin-top: 100px; 
+}
+.kiri3 p{
+  color: #000;
+  font-size: 20px;
+  margin-left: -100px; 
+}
+
+.intro-message{
+  float: left;
+  margin-left: 5%;
+   margin-top: 5%;
+   width: 40%;
+   height: 50%;
+  }
+  .intro-message2{
+  float: left;
+  margin-left: 1%;
+   margin-top: 10%;
+   width: 40%;
+   height: 50%;
+  }
+  .intro-message3{
+  float: left;
+  margin-left: 5%;
+   margin-top: 5%;
+   width: 40%;
+   height: 50%;
+  }
+.intro-header{
+  height: 65%;
+  width: 100%;
+}
+  .intro-message > h1 {
+  margin-top:20%;
+}
+.intro-message > h3 {
+    text-shadow: 0.05208333333% 0.05208333333% 0.05208333333% rgba(0,0,0,0.6);
+  color: white;
+}  .intro-message3 > h1 {
+  margin-top:20%;
+  font-size: 260%;
+}
+.intro-message3 > h3 {
+    text-shadow: 0.05208333333% 0.05208333333% 0.05208333333% rgba(0,0,0,0.6);
+  color: white;
+  font-size: 200%;
+}.intro-message2 > h1 {
+  margin-top:20%;
+}
+.intro-message2 > h3 {
+    text-shadow: 0.05208333333% 0.05208333333% 0.05208333333% rgba(0,0,0,0.6);
+  color: white;
+}
+.intro-message2 > h1 {
+  font-size: 4em; 
+}
+.bg-overlay {
+  background:rgba(0,0,0, 0.3);
+   height: 100%;
+}
+.bg-overlay2 {
+  background:white;
+  height: 63.15104166667%;
+}
+.bg-overlay3 {
+  background:white;
+  height: 605px;
+  width: 100%;
+}
+.intro-message > h1 {
+  font-size: 200%; }
+input {
+  width:90%;
+  height:10%;
+  margin: 1.52083333333%;
+}
+textarea {
+  width:100%;
+  height:50.7083333333%;
+}
+/*button fachrul*/
+#button  {
+  margin: 20px;
+  outline:none;
+  height: 40px;
+  text-align: center;
+  width: 130px;
+  border-radius:40px;
+  background: #fff;
+  border: 2px solid #1ECD97;
+  color:#1ECD97;
+  letter-spacing:1px;
+  text-shadow:0;
+  font:{
+    size:12px;
+    weight:bold;
+  }
+}
+  #button a{
+    color:#1ECD97;
+  }
+  .button3 a{
+    color:#fff;
+  }
+
+.button2 {
+  margin: 20px;
+  outline:none;
+  height: 40px;
+  text-align: center;
+  width: 130px;
+  border-radius:40px;
+  background: #80AAFF;
+  border: 2px solid #00FFFF;
+  color:#fff;
+  letter-spacing:1px;
+  text-shadow:0;
+  margin-left: 25%;
+  font:{
+    size:12px;
+    weight:bold;
+  }
+}
+  .button3 {
+  margin: 20px;
+  outline:none;
+  height: 40px;
+  text-align: center;
+  width: 130px;
+  border-radius:40px;
+  background:  #000080 ;
+  border: 2px solid #6F00FF;
+  color:#fff;
+  letter-spacing:1px;
+  text-shadow:0;
+  margin-left: 10%;
+  font:{
+    size:12px;
+    weight:bold;
+  }
+}
+
+.kanantext{
+  float: right;
+  margin-top:40px;
+  margin-bottom:20px; 
+  margin-right: 5.20833333333%;
+  width:31.25%;
+}
+.tengahtext{
+  float: left;
+    margin-top:2.08333333333%;
+  margin-left: 10%; 
+   width:33.3333333333%;
+}
+.footer{
+   background-color: grey;
+ height: 400px;
+} 
+.sesuai{
+  margin-right:  70px;
+  margin-top: 70px; 
+}
+.kiripoto img{
+   border-radius: 60%;
+   float: left;
+   width: 13.0208333333%;
+   height: 50.4166666667%;
+    margin-top:1.08333333333%; 
+    margin-left:2.08333333333%; 
+}  
+.bawahtext{
+  margin-left: 50px;
+  margin-top: 40px;  
+}
+  
+  
+
+  
+
+

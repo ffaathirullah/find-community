@@ -1,0 +1,20 @@
+.skin-design-share{display:block;position:relative;height:10%;line-height:10%;padding:0.52083333333%;border-top:1px solid #dadada; margin-top:10%;}
+.skin-design-share-fb,.skindesign-share{float:left;width:21%;padding:0 10px;height:inherit}
+.skin-design-share-tw,.skindesign-share,.skindesign-share-lk{
+	float:left;width:
+	21%;height:inherit;padding:0.52083333333%;border-left:solid 1px #dadada}
+.skindesign-share-fb,.skindesign-share-tw,.skindesign-share-gp,.skindesign-share-lin,.skindesign-share-pi{float:left;display:block;background:url('https://2.bp.blogspot.com/-FYy1a99SDXE/VXuCSz_hYjI/AAAAAAAACbg/8dz4LkDIHYY/s1600/share.png') no-repeat;width:100%;height:1em;margin-right:0.188em }
+.skindesign-share-fb-label{color:#2d609b}
+.skindesign-share-fb-label,.skindesign-share-tw-label,.skindesign-share-gp-label,.skindesign-share-lin-label{float:left;width:58px;height:inherit;font-size:12px;font-family:'Open Sans Bold',Arial,sans-serif;line-height:14px;margin:5px 0 0 4px}
+.skindesign-share-tw{background-position:0 -43px}
+.skindesign-share-tw-label{color:#00c3f3}
+.skindesign-share-gp{background-position:0 -86px}
+.skindesign-share-gp-label{color:#f00}
+.skindesign-share-lin{background-position:0 -129px}
+.skin-design-share a{color:#999;transition:all .3s;}
+.skin-design-share a:hover{color:#7cb0ed}
+
+@media only screen and (max-width:640px){
+.skindesign-share,.skin-design-share-fb{display:inline-block;float:none;width:48%;padding:0;height:inherit}
+.skindesign-share,.skin-design-share-tw,.skindesign-share-lk{float:left;width:48%;padding:0;border-left:0}
+}

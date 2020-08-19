@@ -1,0 +1,57 @@
+/* Css Navigasi atau Navbar */
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+    margin-right: 20px;
+
+}
+
+.nav-link:hover {
+    color: aqua;
+}
+
+.navbar-brand:hover {
+    color: aqua;
+}
+
+/* Akhir Navigasi */
+
+/* css content */
+
+.content {}
+
+.logo {
+    background-color: black;
+    color: white;
+}
+
+.gambar {
+    width: 350px;
+    height: 350px;
+}
+
+.form .form-control {
+
+    width: 230px;
+    height: 50px;
+}
+
+.form .left {
+    margin-left: 30px;
+}
+
+.form_textarea {}
+
+.file {}
+
+
+
+
+
+/* akhir content */

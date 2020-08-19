@@ -1,0 +1,20 @@
+body {
+	background-image: url(volley.jpg);
+}
+
+.container {
+	background-color: ;
+	height: 5000px;
+}
+
+.container-fluid{
+	background-image: url(img/logo_volley.jpg);
+}
+
+.col {
+	margin-top: 100px;
+	background-color:	;
+	width: ;
+	border:1px solid black;
+}
+
